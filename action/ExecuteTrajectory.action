@@ -1,5 +1,6 @@
 # The trajectory to execute
 RobotTrajectory trajectory
+builtin_interfaces/Duration backlog_timeout
 
 ---
 
